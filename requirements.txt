@@ -1,0 +1,15 @@
+langgraph
+langchain
+langsmith
+python-dotenv
+langchain-groq 
+langchain_tavily
+ipykernel
+pymupdf
+langchain-core
+transformers
+pillow 
+torch 
+numpy 
+scikit-learn 
+langchain-community
